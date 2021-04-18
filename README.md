@@ -1,2 +1,2 @@
-# project-24---geologist-solution
-project 24 - geologist solution
+# angryBirdsStage1
+Stage 1 Angry Birds
